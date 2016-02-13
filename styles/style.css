@@ -1,0 +1,56 @@
+body { 
+
+	text-align: center;
+/*	background: url(http://www.outsidethebeltway.com/wp-content/uploads/2013/05/NYC-Skyline-570x387.jpg) no-repeat 50% 50% fixed;
+*/	background-size: cover;
+
+ }
+
+ ul {list-style-position: inside;
+
+ }
+
+ #first {
+
+ 	color: blue;
+ }
+
+ .others {
+ 	text-decoration: underline;
+ 	color: green;
+ }
+
+img {
+	border-style: solid;
+	border-color: black;
+}
+
+.cookies {
+	color:white;
+}
+
+#left-div {
+	float: left;
+	clear: both;
+}
+
+#right-div {
+	float: right;
+}
+
+/*#right-div {
+	display: inline-block;
+	width: 49%
+}*/
+
+/*Change the % to be 70% and 29% for example to create two column text fields. */
+
+nav {
+	background-color: black;
+	height: 50px;
+}
+
+li {
+	display: inline;
+	margin: 10px
+}
